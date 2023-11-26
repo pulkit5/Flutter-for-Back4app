@@ -3,7 +3,7 @@ Flutter integration with back4app 22MT12456
 
 GitHub Repository
 
-The GitHub URL is https:
+The GitHub URL is https: https://github.com/pulkit5/Flutter-for-Back4app.git
 ************************
 Documentation
 
